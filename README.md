@@ -1,4 +1,4 @@
-# Sesiuena 18
+# Sesiunea 18
 ### String-uri
 ### ES6
 
